@@ -6,3 +6,4 @@
 - Run `. ~$HOME/.cargo/env` to execute the environment script.
 2. Install candle-core: https://github.com/huggingface/candle.git
 or via this repository: `cargo build`
+3. Run `cargo run` to execute the example.
